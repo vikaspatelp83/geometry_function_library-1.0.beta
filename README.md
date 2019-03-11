@@ -19,11 +19,12 @@ A simple easy to use geometry calculation.
 This module contains 21 formulas for geometry to make calculations easy.
 
 Advantages :
-	1> Well written functions with full name.
 	
-	2> In line support.
+		1> Well written functions with full name.
 	
-	3> All functions return calculated values.
+		2> In line support.
+	
+		3> All functions return calculated values.
 
  
 ---- The functions and their parameters are given below.----
