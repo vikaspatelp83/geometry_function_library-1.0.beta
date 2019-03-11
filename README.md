@@ -20,7 +20,9 @@ This module contains 21 formulas for geometry to make calculations easy.
 
 Advantages :
 	1> Well written functions with full name.
+	
 	2> In line support.
+	
 	3> All functions return calculated values.
 
  
