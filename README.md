@@ -2,18 +2,18 @@
 A simple easy to use geometry calculation.
 
 			             << FREE OPEN SOURCE >>
-	<< GEOMETRY FORMULAS FOR AREA, VOLUME, SURFACE, PERIMETER >>
+	            << GEOMETRY FORMULAS FOR AREA, VOLUME, SURFACE, PERIMETER >>
 			                <<PYTHON 3.7.1>>
-		                <<VERSION 1.0.beta>>
+		                      <<VERSION 1.0.beta>>
 
-	>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-	^  name    : geometry.py		                   	^
-	^  writer  : Vikas Patel		                   	^	
-	^  github  : github.com/vikaspatelp83       		^
-	^  linkedIn: linkedin.com/vikaspatelp83		      ^
-	^  twitter : twitter.com/DevDp430	            	^
-	^  website : novice-vikas.blogspot.com	       	^
-	>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+			>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+			^  name    : geometry.py		        ^
+			^  writer  : Vikas Patel		        ^	
+			^  github  : github.com/vikaspatelp83       	^
+			^  linkedIn: linkedin.com/vikaspatelp83		^
+			^  twitter : twitter.com/DevDp430	        ^
+			^  website : novice-vikas.blogspot.com	       	^
+			>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
 This module contains 21 formulas for geometry to make calculations easy.
