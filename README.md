@@ -12,7 +12,7 @@ A simple easy to use geometry calculation.
 			^  github  : github.com/vikaspatelp83       	^
 			^  linkedIn: linkedin.com/vikaspatelp83		^
 			^  twitter : twitter.com/DevDp430	        ^
-			^  website : novice-vikas.blogspot.com	       	^
+			^  website : https://www.villageprogrammer.tech ^
 			>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
